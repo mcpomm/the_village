@@ -1,0 +1,10 @@
+{
+  "tree_motor":{
+    "pins": {
+      "motor1": 16,
+      "motor2": 4,
+      "motor3": 5,
+      "motor4": 14
+    }
+  }
+}
